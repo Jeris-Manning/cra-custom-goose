@@ -1,0 +1,12 @@
+{
+  "package": {
+    "dependencies": {
+      "css-init": "^1.1.9",
+      "react-router-dom": "^6.2.1",
+      "styled-components": "^5.3.3"
+    },
+    "eslintConfig": {
+      "extends": ["react-app"]
+    }
+  }
+}
